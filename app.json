@@ -7,7 +7,7 @@
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "Demo-Slayer~odQmyBrJ#uCzoK290VEuQR-nPYc9MnmPHwPLyq92I3xB8Kuc0CTA",
       "required": true,
       "value": ""
     },
