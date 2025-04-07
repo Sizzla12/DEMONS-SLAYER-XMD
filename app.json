@@ -29,7 +29,7 @@
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji else leave blank to use default => 🫨",
       "required": false,
-      "value": "🫨"
+      "value": "💚📌💯"
       },
     "AUTO_REACT": {
       "description": "make it true if you want a bot to react on messages",
